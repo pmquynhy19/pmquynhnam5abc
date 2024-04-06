@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1190" height="774">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <ellipse fill="#FFEBA2" stroke="#2D2D2D" cx="197.07389" cy="274.29545" id="6126a059fc874a9bb72d634d8a178988-ao-1" rx="18" ry="18"/>
+  <ellipse fill="#FFEBA2" stroke="#2D2D2D" cx="861.84666" cy="356.11363" rx="18" ry="18" id="6126a059fc874a9bb72d634d8a178988-ao-2"/>
+  <ellipse fill="#FFEBA2" stroke="#2D2D2D" cx="446.3637" cy="564.49431" rx="18" ry="18" id="6126a059fc874a9bb72d634d8a178988-ao-3"/>
+  <ellipse fill="#FFEBA2" stroke="#2D2D2D" cx="976.9035" cy="554.74052" rx="18" ry="18" id="6126a059fc874a9bb72d634d8a178988-ao-4"/>
+  <ellipse fill="#FFEBA2" stroke="#2D2D2D" cx="312.13074" cy="163.07384" rx="18" ry="18" id="6126a059fc874a9bb72d634d8a178988-ao-5"/>
+  <ellipse fill="#FFEBA2" stroke="#2D2D2D" cx="918.80687" cy="205.49808" rx="18" ry="18" id="6126a059fc874a9bb72d634d8a178988-ao-6"/>
+  <ellipse fill="#FF7E7E" stroke="#2D2D2D" cx="1011.42051" cy="382.9602" rx="18" ry="18" id="6126a059fc874a9bb72d634d8a178988-ao-7" class="qshape"/>
+  <ellipse fill="#FFEBA2" stroke="#2D2D2D" cx="515.39779" cy="386.79543" rx="18" ry="18" id="6126a059fc874a9bb72d634d8a178988-ao-8"/>
+  <ellipse fill="#FFEBA2" stroke="#2D2D2D" cx="66.6762" cy="607.96021" rx="18" ry="18" id="6126a059fc874a9bb72d634d8a178988-ao-9"/>
+  <ellipse fill="#FFEBA2" stroke="#2D2D2D" cx="658.57965" cy="455.82952" rx="18" ry="18" id="6126a059fc874a9bb72d634d8a178988-ao-10"/>
+ </g>
+</svg>

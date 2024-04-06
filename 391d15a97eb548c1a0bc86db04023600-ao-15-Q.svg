@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="971" height="763">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <ellipse ry="18" rx="18" id="391d15a97eb548c1a0bc86db04023600-ao-1" cy="131.53123" cx="123.53125" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-2" ry="18" rx="18" cy="175.28123" cx="29" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-3" ry="18" rx="18" cy="227.62498" cx="155.5625" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-4" ry="18" rx="18" cy="434.65623" cx="29" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-5" ry="18" rx="18" cy="466.68748" cx="54" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-6" ry="18" rx="18" cy="596.37498" cx="268.0625" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-7" ry="18" rx="18" cy="685.43748" cx="414.15625" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-8" ry="18" rx="18" cy="647.15623" cx="509.46875" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-9" ry="18" rx="18" cy="451.84373" cx="392.28125" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-10" ry="18" rx="18" cy="394.03123" cx="371.1875" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-11" ry="18" rx="18" cy="341.68748" cx="262.59375" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-12" ry="18" rx="18" cy="346.37498" cx="394.625" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-13" ry="18" rx="18" cy="340.90623" cx="443.84375" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-14" ry="18" rx="18" cy="254.96873" cx="297.75" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-15" ry="18" rx="18" cy="193.24998" cx="409.46875" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-16" ry="18" rx="18" cy="124.49998" cx="409.46875" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-17" ry="18" rx="18" cy="49.49998" cx="332.90625" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-18" ry="18" rx="18" cy="146.37498" cx="566.5" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-19" ry="18" rx="18" cy="290.12498" cx="622.75" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-20" ry="18" rx="18" cy="214.34373" cx="658.6875" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-21" ry="18" rx="18" cy="254.18748" cx="677.4375" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-22" ry="18" rx="18" cy="213.56248" cx="731.34375" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-23" ry="18" rx="18" cy="279.18748" cx="717.28125" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-24" ry="18" rx="18" cy="283.09373" cx="865.71875" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-25" ry="18" rx="18" cy="321.37498" cx="861.8125" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="391d15a97eb548c1a0bc86db04023600-ao-26" ry="18" rx="18" cy="633.87498" cx="791.5" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>

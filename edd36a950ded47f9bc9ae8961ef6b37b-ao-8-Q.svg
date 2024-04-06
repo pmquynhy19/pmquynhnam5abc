@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="721">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <ellipse ry="16.52174" rx="16.52174" id="edd36a950ded47f9bc9ae8961ef6b37b-ao-1" cy="418.1304" cx="37.3913" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-2" ry="16.52174" rx="16.52174" cy="605.08694" cx="53.91303" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-3" ry="16.52174" rx="16.52174" cy="556.3913" cx="300.00001" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-4" ry="16.52174" rx="16.52174" cy="404.21738" cx="167.82612" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-5" ry="16.52174" rx="16.52174" cy="418.13043" cx="208.69566" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-6" ry="16.52174" rx="16.52174" cy="331.1739" cx="178.2609" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-7" ry="16.52174" rx="16.52174" cy="449.43478" cx="375.6522" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-8" ry="16.52174" rx="16.52174" cy="323.34782" cx="412.17393" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-9" ry="16.52174" rx="16.52174" cy="214.65216" cx="593.91306" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-10" ry="16.52174" rx="16.52174" cy="161.60869" cx="665.21741" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-11" ry="16.52174" rx="16.52174" cy="361.60869" cx="866.95655" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-12" ry="16.52174" rx="16.52174" cy="336.3913" cx="1018.2609" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-13" ry="16.52174" rx="16.52174" cy="347.69564" cx="1137.3913" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-14" ry="16.52174" rx="16.52174" cy="522.47825" cx="1028.69568" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-15" ry="16.52174" rx="16.52174" cy="554.65216" cx="936.52177" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse id="edd36a950ded47f9bc9ae8961ef6b37b-ao-16" ry="16.52174" rx="16.52174" cy="689.43478" cx="835.6522" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>

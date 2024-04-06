@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="813"
+   height="795.9999999999999"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="cd79cdd1786444d2bc07ff6ed2e7c162-ao-8-Q.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0816583"
+     inkscape:cx="406.32056"
+     inkscape:cy="398"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <!-- Created with Image Occlusion Enhanced -->
+  <g
+     id="g1">
+    <title
+       id="title1">Labels</title>
+  </g>
+  <g
+     id="g3">
+    <title
+       id="title2">Masks</title>
+    <rect
+       fill="#FFEBA2"
+       x="24"
+       y="165.15463"
+       width="208"
+       height="40"
+       id="cd79cdd1786444d2bc07ff6ed2e7c162-ao-1"
+       stroke="#2D2D2D" />
+    <rect
+       fill="#FFEBA2"
+       x="296"
+       y="165.15464"
+       width="176"
+       height="40"
+       id="cd79cdd1786444d2bc07ff6ed2e7c162-ao-2"
+       stroke="#2D2D2D" />
+    <rect
+       fill="#FFEBA2"
+       x="560"
+       y="165.15463"
+       width="184"
+       height="40"
+       id="cd79cdd1786444d2bc07ff6ed2e7c162-ao-3"
+       stroke="#2D2D2D" />
+    <rect
+       fill="#FFEBA2"
+       x="279.71133"
+       y="736"
+       width="178.14433"
+       height="40"
+       id="cd79cdd1786444d2bc07ff6ed2e7c162-ao-4"
+       stroke="#2D2D2D" />
+    <rect
+       fill="#FFEBA2"
+       x="464"
+       y="536"
+       width="176"
+       height="40"
+       id="cd79cdd1786444d2bc07ff6ed2e7c162-ao-6"
+       stroke="#2D2D2D" />
+    <rect
+       fill="#FFEBA2"
+       stroke-dasharray="null"
+       stroke-linejoin="null"
+       stroke-linecap="null"
+       x="404.08247"
+       y="300.32989"
+       width="88"
+       height="24"
+       stroke="#2D2D2D"
+       id="cd79cdd1786444d2bc07ff6ed2e7c162-ao-9" />
+    <g
+       id="cd79cdd1786444d2bc07ff6ed2e7c162-ao-5">
+      <rect
+         fill="#FFEBA2"
+         x="40"
+         y="536"
+         width="296"
+         height="40"
+         stroke="#2D2D2D"
+         id="rect2" />
+      <rect
+         fill="#FFEBA2"
+         stroke="#2D2D2D"
+         stroke-dasharray="null"
+         stroke-linejoin="null"
+         stroke-linecap="null"
+         x="264"
+         y="392"
+         width="40"
+         height="24"
+         id="rect3" />
+    </g>
+  </g>
+</svg>

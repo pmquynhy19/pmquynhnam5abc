@@ -1,0 +1,131 @@
+.replay-button svg { 
+display:none; 
+}
+
+.replay-button:before { 
+content: '🔊'; 
+}
+
+.card {
+	line-height: 1.5;
+	text-align: center;
+	font-size: 25px;
+}
+
+.bigtext {
+	font-size: 30px;	
+}
+
+.cloze {
+	color: orange;
+}
+
+.tag {
+	font-size: 18px;
+	font-style: italic;
+	background-color: gray; 
+	font-weight: bold;
+	border-radius: 20px;
+	width: auto;
+	height: auto; 
+	padding: 5px 30px 5px 30px;
+	margin: 10px 20px 10px 20px;
+}
+
+.tag:empty {
+  display: none;
+}
+
+input {
+	font-size: 45px !important;
+	border: none;
+	background-color: #2c2c2c;
+	color: yellow;
+	text-align: center;
+	outline: none;
+}
+
+!<#typeans { font-size: 20px !important; }
+
+img {
+    width:auto;
+    height: 250px !important;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 2px dotted black; 
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: max-content; 
+  max-width: 200px;
+  background-color: #2c2c2c;
+  color: #fff;
+  text-align: left;
+  padding: 20px 20px;
+  border-radius: 66px;
+
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+/* Image oclusion addon style */
+#io-overlay {
+  position:absolute;
+  top:0;
+  width:100%;
+  z-index:3
+}
+
+#io-wrapper {
+  position:relative;
+  width: 100%;
+}
+
+#myHeader {
+  color: lightgreen;
+  text-align: center;
+  font-family: "Arial";
+  font-size: 30px;  
+}
+
+.code_block {
+	width: max-content;
+	padding: 5px 5px 5px 20px;
+	margin: auto
+}
+
+.code_note {
+  font-size: 20px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  color: lightgrey;
+  text-align: left;
+  width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.hint {
+  font-size: 20px;
+  color: red;
+  font-weight: bold;
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.code_note:empty {
+	display: none;
+}
+
+
+any character except a new line

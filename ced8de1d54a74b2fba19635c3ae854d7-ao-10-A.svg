@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="960">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="ced8de1d54a74b2fba19635c3ae854d7-ao-1" height="36" width="168" y="240" x="204" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="ced8de1d54a74b2fba19635c3ae854d7-ao-2" height="36" width="185.87687" y="240" x="762.12313" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="ced8de1d54a74b2fba19635c3ae854d7-ao-3" height="36" width="96" y="396" x="240" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="ced8de1d54a74b2fba19635c3ae854d7-ao-4" height="36" width="120" y="396" x="612" fill="#FFEBA2"/>
+  <rect id="ced8de1d54a74b2fba19635c3ae854d7-ao-5" stroke="#2D2D2D" height="36" width="120" y="536.64179" x="408" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="ced8de1d54a74b2fba19635c3ae854d7-ao-6" height="36" width="173.73134" y="669.29104" x="127.58954" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="ced8de1d54a74b2fba19635c3ae854d7-ao-7" height="36" width="305.04852" y="594.97388" x="773.95529" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="ced8de1d54a74b2fba19635c3ae854d7-ao-8" height="36" width="169.53358" y="817.05225" x="301.37687" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="ced8de1d54a74b2fba19635c3ae854d7-ao-9" height="36" width="221.58581" y="814.53359" x="669.94032" fill="#FFEBA2"/>
+  
+  <rect stroke="#2D2D2D" id="ced8de1d54a74b2fba19635c3ae854d7-ao-11" height="20.14925" width="78.07836" y="219.57089" x="670.52234" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="ced8de1d54a74b2fba19635c3ae854d7-ao-12" height="20.14925" width="54.5709" y="222.08954" x="980.31712" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
+  <rect id="ced8de1d54a74b2fba19635c3ae854d7-ao-13" stroke="#2D2D2D" height="20.14925" width="54.5709" y="208.65671" x="1067.63055" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
+ </g>
+</svg>
